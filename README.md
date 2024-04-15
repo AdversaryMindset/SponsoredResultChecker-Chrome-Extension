@@ -1,1 +1,1 @@
-# AdSight-Chrome-Extension
+# SponsoredResultChecker-Chrome-Extension
