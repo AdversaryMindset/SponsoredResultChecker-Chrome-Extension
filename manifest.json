@@ -3,7 +3,6 @@
   "name": "Sponsored Result Checker by Adversary Mindset",
   "version": "1.0",
   "permissions": [
-    "activeTab",
     "webRequest"
   ],
 "host_permissions": [
